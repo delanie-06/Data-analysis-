@@ -2,6 +2,8 @@
  1. comprehensive data preprocessing,
  2. exploratory data analysis (EDA), and
  3. insightful data analytics.
+
+    
 **Mental Health Analysis**
       Analysis of demographic factors: Age, gender, income, and their impact on mental health.
       Analysis of lifestyle factors: Exercise, diet, sleep patterns, and their influence on mental well-being.
